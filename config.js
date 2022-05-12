@@ -1,4 +1,4 @@
-// M A D E  B Y  Letta - Sama 🐰  
+// M A D E  B Y vanitas
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
@@ -43,33 +43,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/ppiowy_'
-global.sgh = 'https://github.com/kannachann'
-global.sgc = 'https://chat.whatsapp.com/EawZW6vp8gwG4uGt0r4Awa'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://nhentai.net/g/365296/'
+global.sig = 'https://instagram.com/mohammed_xf16'
+global.sgh = ''
+global.sgc = '
+global.sdc = '
+global.snh = '
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085712420674'
-global.ppulsa2 = '083143393763'
-global.psaweria = 'https://saweria.com/kannabotz'
+global.pdana = '
+global.povo = '
+global.pgopay = '
+global.ppulsa = '
+global.ppulsa2 = ''
+global.psaweria = '
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
-global.nomorown = '62831433937633'
-global.namebot = 'Kanna BOT'
-global.nameown = 'Letta - Sama'
+global.nomorbot = '212638701427'
+global.nomorown = '212638701427'
+global.namebot = 'vanitas BOT'
+global.nameown = 'mohammed-xf16'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['18126338970'],
-  ['62831433937633', '❦ ℒℯ𝓉𝓉𝒶 - 𝒮𝒶𝓂𝒶', true]
+  ['212638701427'],
+  ['212766851506'],
+  ['212638701427'],
+  ['212638701427', '❦vanitas', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -119,8 +119,8 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊�
 global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 Ƙαnnα BOT あ⁩ 」'
+global.titlebot = `⫹⫺ vanitas Whatsapp | By ${global.nameown}`
+global.author = '                「 vanitas BOT あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -133,7 +133,7 @@ global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tr
 /*============== HENTAI ==============*/ 
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
-global.premnsfw = true // Nsfw Mode Premium?
+global.premnsfw = false // Nsfw Mode Premium?
 
 
 //Ini cuma simpenan owner kanna kok :v
